@@ -17,6 +17,8 @@ Não esquecer de usar a biblioteza GGEZ [ggez](https://crates.io/crates/ggez)
 
 ### Use cargo run no dicionário do projeto para rodar o jogo
 
+````
+```
 
 //fn main() -> GameResult {
     // Primeiro, criamos uma estrutura `ggez::Conf` que define as configurações do nosso jogo.
@@ -42,5 +44,7 @@ Não esquecer de usar a biblioteza GGEZ [ggez](https://crates.io/crates/ggez)
 
 
 
+```
+````
 ![game_INICIOt](resources/Cobrinha.png)
 
