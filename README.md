@@ -18,7 +18,7 @@ Não esquecer de usar a biblioteza GGEZ [ggez](https://crates.io/crates/ggez)
 ### Use cargo run no dicionário do projeto para rodar o jogo
 
 
-fn main() -> GameResult {
+//fn main() -> GameResult {
     // Primeiro, criamos uma estrutura `ggez::Conf` que define as configurações do nosso jogo.
     let (ctx, event_loop) = ggez::ContextBuilder::new("Jogo da Cobrinha-=TECVII", "welder")
         // Primeiro, criamos uma estrutura `ggez::Conf` que define as configurações do nosso jogo.
