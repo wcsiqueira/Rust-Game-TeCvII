@@ -4,10 +4,16 @@
 Baseado no exemplo encontrado na biblioteca ggezÇhttps://github.com/ggez/ggez
 
 REFERENCIAS 
+
 https://rust-br.github.i
+
 https://www.youtube.com/watch?v=DnT_7M7L7vo&t=464s
+
 https://www.youtube.com/watch?v=iR7Q_6quwSI&t=2172s
+
+
 https://www.youtube.com/watch?v=AYfehnFklkA
+
 https://www.youtube.com/watch?v=8DUENLiOfiQ&t=1868s
 
 A graphical tic-tac-toe game written in Rust and [ggez](https://crates.io/crates/ggez)
