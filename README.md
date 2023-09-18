@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=iR7Q_6quwSI&t=2172s
 https://www.youtube.com/watch?v=AYfehnFklkA
 https://www.youtube.com/watch?v=8DUENLiOfiQ&t=1868s
 
-A graphical tic-tac-toe game written in Rust and [ggez](https://crates.io/crates/ggez)
+Não esquecer de usar a biblioteza GGEZ [ggez](https://crates.io/crates/ggez)
 
 ## Requer
 1. Precisa instalar o RUST [installed](https://www.rust-lang.org/en-US/install.html)
