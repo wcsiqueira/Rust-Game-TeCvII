@@ -4,6 +4,8 @@ Baseado no exemplo encontrado na biblioteca ggezÇhttps://github.com/ggez/ggez
 
 REFERENCIAS 
 https://rust-br.github.i
+https://github.com/ggez/ggez/blob/master/examples/04_snake.rs
+
 https://www.youtube.com/watch?v=DnT_7M7L7vo&t=464s
 https://www.youtube.com/watch?v=iR7Q_6quwSI&t=2172s
 https://www.youtube.com/watch?v=AYfehnFklkA
